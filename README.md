@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Yadav</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I’m currently working on **e-college Dating**
-
 - 🌱 I’m currently learning **Data structure and Algorithm**
 
 - 💬 Ask me about **Dsa,Web developemnt**
